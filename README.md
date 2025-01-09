@@ -21,4 +21,4 @@ Read and write data from a binary file.
 Delete a binary file (optional).
 Requirements
 A C compiler (e.g., GCC).
-A text editor to modify the code (optional).
+A text editor to modify the code.
